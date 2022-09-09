@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d238a73"],{fffc:function(e,n,c){"use strict";c.r(n);var t=c("7a23");function r(e,n){var c=Object(t["Q"])("el-empty");return Object(t["H"])(),Object(t["k"])(c,{description:"欢迎使用学生系统"})}const o={};o.render=r;n["default"]=o}}]);
+//# sourceMappingURL=chunk-2d238a73.3a81158d.js.map
